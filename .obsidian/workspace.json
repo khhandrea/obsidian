@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2023-09-12.md",
+                "file": "playground/Reinforcement learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2023-09-12.md",
+                "file": "playground/Reinforcement learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2023-09-12.md",
+                "file": "playground/Reinforcement learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2023-09-12.md"
+                "file": "playground/Reinforcement learning.md"
               }
             }
           }
@@ -148,11 +148,11 @@
   },
   "active": "e763198b1c1c368f",
   "lastOpenFiles": [
-    "2023-09-12.md",
-    "daily/2023-09-12.md",
-    "daily",
     "playground/MDP.md",
     "playground/Reinforcement learning.md",
+    "daily/2023-09-12.md",
+    "2023-09-12.md",
+    "daily",
     "playground/Canvas.canvas",
     "playground"
   ]
