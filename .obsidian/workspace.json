@@ -112,13 +112,21 @@
                 "file": "playground/Obsidian.md"
               }
             }
+          },
+          {
+            "id": "86b7f6cd4b14e0d0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -130,7 +138,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6092385416e26c7",
+  "active": "86b7f6cd4b14e0d0",
   "lastOpenFiles": [
     "playground/Obsidian.md",
     "playground/Reinforcement learning.md",
