@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"05e0acf9d4398860","type":"file","file":"playground/Reinforcement learning.md","x":-375,"y":-257,"width":400,"height":137},
-		{"id":"c0f5b49d0e640812","type":"text","text":"[[Reinforcement learning]]","x":-300,"y":-400,"width":250,"height":60,"color":"6"},
+		{"id":"05e0acf9d4398860","type":"file","file":"playground/reinforcement learning.md","x":-375,"y":-257,"width":400,"height":137},
+		{"id":"c0f5b49d0e640812","type":"text","text":"[[reinforcement learning]]","x":-300,"y":-400,"width":250,"height":60,"color":"6"},
 		{"id":"157a77093014506f","x":-300,"y":-40,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[

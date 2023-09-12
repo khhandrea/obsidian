@@ -1,8 +1,9 @@
 {
-  "accentColor": "",
+  "accentColor": "#9dd2fb",
   "theme": "moonstone",
   "textFontFamily": "AppleMyungjo",
   "monospaceFontFamily": "D2Coding",
   "cssTheme": "Typomagical",
-  "interfaceFontFamily": ""
+  "interfaceFontFamily": "",
+  "baseFontSizeAction": true
 }

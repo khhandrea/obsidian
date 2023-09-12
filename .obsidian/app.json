@@ -1,6 +1,7 @@
 {
   "alwaysUpdateLinks": true,
-  "showInlineTitle": true,
+  "showInlineTitle": false,
   "promptDelete": false,
-  "spellcheck": false
+  "spellcheck": false,
+  "showLineNumber": false
 }

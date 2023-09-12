@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cd4ad9adcdf477d5",
+        "id": "c8a5e5e2e3b39695",
         "type": "tabs",
         "children": [
           {
-            "id": "d4cbab88790052c7",
+            "id": "1257b06b5f909bad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "playground/Obsidian.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "playground/Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "playground/Obsidian.md"
-              }
+              "state": {}
             }
           },
           {
@@ -129,7 +121,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -145,13 +138,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4cbab88790052c7",
+  "active": "1257b06b5f909bad",
   "lastOpenFiles": [
+    "daily/2023.09.12.md",
     "playground/Canvas.canvas",
-    "playground/Obsidian.md",
     "playground/MDP.md",
+    "playground/obsidian markdowns.md",
+    "playground/reinforcement learning.md",
+    "playground/Obsidian vs. Notion.md",
+    "playground/todo.md",
     "daily/2023-09-12.md",
-    "playground/Reinforcement learning.md",
     "2023-09-12.md",
     "daily",
     "playground"
