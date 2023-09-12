@@ -1,8 +1,9 @@
 # MDP
 MDP is Markov decision process in [[reinforcement learning]]
-$$E[G_t | s_t] = V(s_t)$$
-```python
-def ioawnef:
-	for i in range(3):
-		print(f"hi there {username}")
-```
+$$
+\begin{align}
+&V(s_t) \\
+=&E[G_t | s_t] \\
+=&E[R_s + \gamma R_{t+1} + \gamma R_{t+2} + \cdots + | s_t]
+\end{align}
+$$
