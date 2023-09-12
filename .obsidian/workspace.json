@@ -18,8 +18,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b5e7ae2b4e7bd571",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "playground/Obsidian.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "playground/Reinforcement learning.md",
+                "file": "playground/Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "playground/Reinforcement learning.md",
+                "file": "playground/Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "playground/Reinforcement learning.md"
+                "file": "playground/Obsidian.md"
               }
             }
           }
@@ -146,10 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e763198b1c1c368f",
+  "active": "b5e7ae2b4e7bd571",
   "lastOpenFiles": [
-    "playground/MDP.md",
     "playground/Reinforcement learning.md",
+    "playground/MDP.md",
+    "playground/Obsidian.md",
     "daily/2023-09-12.md",
     "2023-09-12.md",
     "daily",
