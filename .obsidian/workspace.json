@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "75a043a083d475a7",
+        "id": "13b34cf908b79165",
         "type": "tabs",
         "children": [
           {
-            "id": "d44cf869d71fc28f",
+            "id": "4cf4d32d924b8a97",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6d00d2fc791fa2a9",
@@ -82,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -93,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -156,10 +164,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d44cf869d71fc28f",
+  "active": "4cf4d32d924b8a97",
   "lastOpenFiles": [
+    "papers/adapters.md",
+    "papers",
+    "papers/SAM-optimizer.md",
+    "playground/Reinforcement learning.md",
+    "playground/obsidian markdowns.md",
     "playground/note-SAM-optimizer.md",
-    "playground/SAM-optimizer.md",
+    "playground/Obsidian vs. Notion.md",
+    "README.md",
+    "Home.md",
     "스크린샷 2023-09-13 오후 1.01.29.png",
     "스크린샷 2023-09-13 오후 1.01.17.png",
     "스크린샷 2023-09-13 오후 12.59.39.png",
@@ -168,16 +183,13 @@
     "스크린샷 2023-09-13 오후 12.50.59.png",
     "another note.md",
     "daily/2023.09.13.md",
-    "README.md",
     "playground/MDP.md",
     "playground/Canvas.canvas",
     "daily/2023.09.12.md",
     "playground/todo.md",
     "templates/daily.md",
-    "playground/obsidian markdowns.md",
     "playground/reinforcement learning.md",
     "templates",
-    "playground/Obsidian vs. Notion.md",
     "Untitled.canvas",
     "daily/2023-09-12.md",
     "2023-09-12.md",
