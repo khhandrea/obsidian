@@ -89,19 +89,35 @@
       "key": "["
     }
   ],
-  "insert-template": [
+  "daily-notes": [
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "M"
+      "key": "D"
+    }
+  ],
+  "obsidian-annotator:toggle-annotation-mode": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "A"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
     }
   ],
   "workspace:split-vertical": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Alt",
+        "Mod"
       ],
       "key": "ArrowRight"
     }
@@ -109,8 +125,8 @@
   "workspace:split-horizontal": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Alt",
+        "Mod"
       ],
       "key": "ArrowDown"
     }
