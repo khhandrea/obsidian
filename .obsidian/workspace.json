@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "13b34cf908b79165",
+        "id": "75a043a083d475a7",
         "type": "tabs",
         "children": [
           {
-            "id": "4cf4d32d924b8a97",
+            "id": "d44cf869d71fc28f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "playground/note-SAM-optimizer.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "playground/note-SAM-optimizer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "playground/note-SAM-optimizer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "playground/note-SAM-optimizer.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -164,17 +164,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4cf4d32d924b8a97",
+  "active": "d44cf869d71fc28f",
   "lastOpenFiles": [
+    "daily/2023.09.14.md",
+    "study",
+    "daily/2023.09.13.md",
+    "playground/MDP.md",
     "papers/adapters.md",
-    "papers",
     "papers/SAM-optimizer.md",
-    "playground/Reinforcement learning.md",
-    "playground/obsidian markdowns.md",
+    "papers",
     "playground/note-SAM-optimizer.md",
-    "playground/Obsidian vs. Notion.md",
-    "README.md",
-    "Home.md",
+    "playground/SAM-optimizer.md",
     "스크린샷 2023-09-13 오후 1.01.29.png",
     "스크린샷 2023-09-13 오후 1.01.17.png",
     "스크린샷 2023-09-13 오후 12.59.39.png",
@@ -182,14 +182,15 @@
     "스크린샷 2023-09-13 오후 12.58.32.png",
     "스크린샷 2023-09-13 오후 12.50.59.png",
     "another note.md",
-    "daily/2023.09.13.md",
-    "playground/MDP.md",
+    "README.md",
     "playground/Canvas.canvas",
     "daily/2023.09.12.md",
     "playground/todo.md",
     "templates/daily.md",
+    "playground/obsidian markdowns.md",
     "playground/reinforcement learning.md",
     "templates",
+    "playground/Obsidian vs. Notion.md",
     "Untitled.canvas",
     "daily/2023-09-12.md",
     "2023-09-12.md",
