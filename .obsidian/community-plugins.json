@@ -3,5 +3,7 @@
   "calendar",
   "homepage",
   "url-into-selection",
-  "obsidian-annotator"
+  "obsidian-annotator",
+  "table-editor-obsidian",
+  "obsidian-plugin-toc"
 ]
