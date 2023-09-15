@@ -133,6 +133,18 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "27c9301be32222fb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -147,8 +159,7 @@
       "graph:Open graph view": true,
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
-      "command-palette:Open command palette": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": true
+      "command-palette:Open command palette": true
     }
   },
   "active": "a5246c4f14436b56",
