@@ -1,5 +1,7 @@
 ---
-references: "[[SAM-optimizer]]"
+references: "[[ossp2]]"
+tags:
+  - study
 ---
 
 # Note: SAM optimizer

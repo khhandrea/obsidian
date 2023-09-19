@@ -1,3 +1,8 @@
+---
+tags:
+  - study
+---
+
 # OSSP2 주차 과제
 <center>202111278 컴퓨터공학부 김환희</center>
 

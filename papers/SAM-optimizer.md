@@ -1,5 +1,7 @@
 ---
 annotation-target: https://arxiv.org/pdf/2010.01412.pdf
+tags:
+  - paper
 ---
 
 

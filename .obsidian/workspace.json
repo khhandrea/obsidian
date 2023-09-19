@@ -4,23 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c44093cbed922485",
+        "id": "5e51768c31232553",
         "type": "tabs",
         "children": [
           {
-            "id": "659e0f0d9bb5de76",
+            "id": "0b39785816aa0df4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dataview test.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -44,6 +40,22 @@
             }
           },
           {
+            "id": "86b7f6cd4b14e0d0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "3245d84262fcdb7d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
             "id": "973b9161be1cb617",
             "type": "leaf",
             "state": {
@@ -57,25 +69,8 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "3245d84262fcdb7d",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "86b7f6cd4b14e0d0",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,9 +89,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "dataview test.md"
-              }
+              "state": {}
             }
           },
           {
@@ -116,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dataview test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,13 +125,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dataview test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -151,50 +143,50 @@
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
       "table-editor-obsidian:Advanced Tables Toolbar": true,
-      "switcher:Open quick switcher": false
+      "switcher:Open quick switcher": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "6a80cefca4577403",
+  "active": "0b39785816aa0df4",
   "lastOpenFiles": [
-    "daily/2023.09.16.md",
-    "templates/daily.md",
+    "study/note-SAM-optimizer/02.png",
+    "note/adapters.md",
+    "templates/study.md",
     "dataview test.md",
+    "study/note-SAM-optimizer/note-SAM-optimizer.md",
+    "study/ossp2.md",
+    "note/Obsidian vs. Notion.md",
+    "note/obsidian markdowns.md",
+    "templates/note.md",
+    "templates/daily.md",
+    "templates/paper.md",
+    "README.md",
+    "playground/MDP.md",
+    "playground/Reinforcement learning.md",
+    "papers/vision adapter in robotics.md",
+    "papers/SAM-optimizer.md",
+    "papers/adapters in visual domains.md",
+    "papers/test.md",
     "daily/2023.09.19.md",
+    "daily/2023.09.16.md",
+    "daily/2023.09.12.md",
     "daily/2023.09.14.md",
     "daily/2023.09.13.md",
-    "daily/2023.09.12.md",
-    "README.md",
     "Untitled Kanban.md",
-    "papers/adapters in visual domains.md",
     "daily/2023.10.03.md",
     "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
     "Untitled",
-    "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
-    "Projects - Demo Project/Why You Should Be Taking More Notes.md",
-    "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
-    "Projects - Demo Project/The Best Notes You'll Ever Make.md",
     "Projects - Demo Project",
-    "daily/2023.09.20.md",
-    "daily/2023.09.21.md",
-    "2023.09.19.md",
-    "papers/vision adapter in robotics.md",
-    "note/adapters.md",
-    "study/note-SAM-optimizer/note-SAM-optimizer.md",
     "study/note-SAM-optimizer/06.png",
     "study/note-SAM-optimizer/05.png",
     "study/note-SAM-optimizer/04.png",
     "study/note-SAM-optimizer/03.png",
-    "study/note-SAM-optimizer/02.png",
     "study/note-SAM-optimizer/01.png",
     "study/note-SAM-optimizer",
-    "note/ossp2.md",
     "note",
     "study",
     "study",
-    "playground/MDP.md",
-    "papers/SAM-optimizer.md",
     "papers",
-    "playground/SAM-optimizer.md",
     "playground/Canvas.canvas",
     "templates",
     "Untitled.canvas",

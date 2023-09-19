@@ -1,7 +1,5 @@
 
 # Obsidian
-High there!
-
 todo
 - Plugins 정리
 - Properties 정리
@@ -15,3 +13,15 @@ todo
 | papers     | Archiving papers                             |
 | study      | Studying on papers, informations etc.        |
 | note       | Memoization                                  | 
+
+```dataview
+TABLE annotation-target AS "url"
+FROM #paper
+WHERE typeof(annotation-target) = "string"
+```
+
+```dataview
+CALENDAR date
+FROM #daily
+WHERE typeof(date) = "date"
+```
