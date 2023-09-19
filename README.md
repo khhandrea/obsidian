@@ -1,7 +1,11 @@
+
 # Obsidian
 High there!
 
-todo:
+todo
+- Plugins 정리
+- Properties 정리
+- Tags 정리
 
 | Directory  | Description                                  |
 | ---------- | -------------------------------------------- |

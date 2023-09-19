@@ -89,14 +89,6 @@
       "key": "["
     }
   ],
-  "daily-notes": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "D"
-    }
-  ],
   "obsidian-annotator:toggle-annotation-mode": [
     {
       "modifiers": [
@@ -129,6 +121,14 @@
         "Mod"
       ],
       "key": "ArrowDown"
+    }
+  ],
+  "quickadd:choice:de0a32ed-2185-4d8f-bc26-4af9a46675ba": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
     }
   ]
 }

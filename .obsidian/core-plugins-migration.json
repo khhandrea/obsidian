@@ -8,10 +8,10 @@
   "outgoing-link": true,
   "tag-pane": true,
   "properties": false,
-  "page-preview": true,
-  "daily-notes": true,
+  "page-preview": false,
+  "daily-notes": false,
   "templates": true,
-  "note-composer": true,
+  "note-composer": false,
   "command-palette": true,
   "slash-command": false,
   "editor-status": true,
@@ -24,7 +24,7 @@
   "slides": false,
   "audio-recorder": false,
   "workspaces": false,
-  "file-recovery": true,
+  "file-recovery": false,
   "publish": false,
   "sync": false
 }
