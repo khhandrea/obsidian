@@ -5,7 +5,6 @@ tags:
 ---
 
 
-
 >%%
 >```annotation-json
 >{"created":"2023-09-13T03:15:02.358Z","updated":"2023-09-13T03:15:02.358Z","document":{"title":"2010.01412.pdf","link":[{"href":"urn:x-pdf:7a04ea43100d4ed183310df0224cebf0"},{"href":"https://arxiv.org/pdf/2010.01412.pdf"}],"documentFingerprint":"7a04ea43100d4ed183310df0224cebf0"},"uri":"https://arxiv.org/pdf/2010.01412.pdf","target":[{"source":"https://arxiv.org/pdf/2010.01412.pdf","selector":[{"type":"TextPositionSelector","start":796,"end":900},{"type":"TextQuoteSelector","exact":" Sharpness-Aware Minimization (SAM), seeks parameters that liein neighborhoods having uniformly low loss","prefix":"ss. In particular,our procedure,","suffix":"; this formulation results in a "}]}]}
@@ -173,3 +172,17 @@ tags:
 >%%TAGS%%
 >
 ^g1e5etki6a
+
+
+>%%
+>```annotation-json
+>{"created":"2023-09-19T16:04:46.904Z","updated":"2023-09-19T16:04:46.904Z","document":{"title":"2010.01412.pdf","link":[{"href":"urn:x-pdf:7a04ea43100d4ed183310df0224cebf0"},{"href":"https://arxiv.org/pdf/2010.01412.pdf"}],"documentFingerprint":"7a04ea43100d4ed183310df0224cebf0"},"uri":"https://arxiv.org/pdf/2010.01412.pdf","target":[{"source":"https://arxiv.org/pdf/2010.01412.pdf","selector":[{"type":"TextPositionSelector","start":44805,"end":44815},{"type":"TextQuoteSelector","exact":"A APPENDIX","prefix":" a conference paper at ICLR 2021","suffix":"A.1 PAC BAYESIAN GENERALIZATION "}]}]}
+>```
+>%%
+>*%%PREFIX%%a conference paper at ICLR 2021%%HIGHLIGHT%% ==A APPENDIX== %%POSTFIX%%A.1 PAC BAYESIAN GENERALIZATION*
+>%%LINK%%[[#^5mk7rh5filt|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^5mk7rh5filt
