@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "5e51768c31232553",
+        "id": "26f1bccb2e737acc",
         "type": "tabs",
         "children": [
           {
-            "id": "0b39785816aa0df4",
+            "id": "9d19dc555ed9bfeb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -89,7 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -109,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,30 +156,30 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0b39785816aa0df4",
+  "active": "9d19dc555ed9bfeb",
   "lastOpenFiles": [
-    "study/note-SAM-optimizer/02.png",
+    "study/note-SAM-optimizer/note-SAM-optimizer.md",
+    "README.md",
+    "study/ossp2.md",
+    "note/obsidian markdowns.md",
     "note/adapters.md",
+    "daily/2023.09.14.md",
+    "papers/vision adapter in robotics.md",
+    "note/Obsidian vs. Notion.md",
+    "study/note-SAM-optimizer/02.png",
     "templates/study.md",
     "dataview test.md",
-    "study/note-SAM-optimizer/note-SAM-optimizer.md",
-    "study/ossp2.md",
-    "note/Obsidian vs. Notion.md",
-    "note/obsidian markdowns.md",
     "templates/note.md",
     "templates/daily.md",
     "templates/paper.md",
-    "README.md",
     "playground/MDP.md",
     "playground/Reinforcement learning.md",
-    "papers/vision adapter in robotics.md",
     "papers/SAM-optimizer.md",
     "papers/adapters in visual domains.md",
     "papers/test.md",
     "daily/2023.09.19.md",
     "daily/2023.09.16.md",
     "daily/2023.09.12.md",
-    "daily/2023.09.14.md",
     "daily/2023.09.13.md",
     "Untitled Kanban.md",
     "daily/2023.10.03.md",
