@@ -2,7 +2,8 @@
 date: "{{date}}"
 tags:
   - daily
+description: 
 ---
-# title
+# {{date}}
 ## Todo
 - [ ] 
