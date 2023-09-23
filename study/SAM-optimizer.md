@@ -1,10 +1,12 @@
 ---
-references: "[[SAM-optimizer]]"
+created-at: "2023-09-12T12:00:00"
 tags:
   - study
 ---
 
 # Note: SAM optimizer
+References
+- [[papers/SAM-optimizer|SAM-optimizer]]
 ## Abstract
 ## 1 Introduction
 ## 2 Sharpness-Aware Minimization (SAM)

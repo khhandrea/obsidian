@@ -10,14 +10,4 @@
 | study      | Studying on papers, informations etc.        |
 | note       | Memoization                                  | 
 
-```dataview
-TABLE annotation-target AS "url"
-FROM #paper
-WHERE typeof(annotation-target) = "string"
-```
 
-```dataview
-CALENDAR date
-FROM #daily
-WHERE typeof(date) = "date"
-```
