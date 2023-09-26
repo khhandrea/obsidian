@@ -4,6 +4,12 @@ tags:
   - homepage
 ---
 # Note
+```button
+name New note
+type command
+action QuickAdd: note
+```
+
 ```dataview
 TABLE created-at, description
 FROM "notes"

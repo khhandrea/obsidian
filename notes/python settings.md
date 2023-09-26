@@ -7,6 +7,6 @@ description: python 기본 구축 방법 작성
 # Python settings
 구축 환경
 - mypy
-- pipenv
+- pipenv -> docker
 - black
 - pytest
