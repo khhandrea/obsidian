@@ -4,6 +4,12 @@ tags:
   - homepage
 ---
 # Paper
+```button
+name New paper
+type command
+action QuickAdd: paper
+```
+
 ```dataview
 TABLE annotation-target AS "url"
 FROM #paper
