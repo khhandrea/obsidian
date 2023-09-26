@@ -5,7 +5,7 @@ tags:
 ---
 # Paper
 ```button
-name New paper
+name + New paper
 type command
 action QuickAdd: paper
 ```

@@ -5,7 +5,7 @@ tags:
 ---
 # Note
 ```button
-name New note
+name + New note
 type command
 action QuickAdd: note
 ```
