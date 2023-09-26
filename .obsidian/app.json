@@ -1,0 +1,10 @@
+{
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": false,
+  "promptDelete": false,
+  "spellcheck": false,
+  "showLineNumber": false,
+  "autoPairMarkdown": false,
+  "propertiesInDocument": "visible",
+  "foldHeading": true
+}
