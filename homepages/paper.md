@@ -11,7 +11,8 @@ action QuickAdd: paper
 ```
 
 ```dataview
-TABLE annotation-target AS "url"
+TABLE description
 FROM #paper
 WHERE typeof(annotation-target) = "string"
+SORT created-at DESC
 ```

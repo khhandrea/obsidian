@@ -3,7 +3,6 @@ created-at: "2023-09-20T12:00:00"
 tags:
   - homepage
 ---
-
 ## [[homepages/daily|daily]]
 ## [[homepages/note|note]]
 ## [[homepages/paper|paper]]
