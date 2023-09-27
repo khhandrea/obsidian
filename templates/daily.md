@@ -4,7 +4,7 @@ created-at: "{{date}}T{{time}}"
 tags:
   - daily
 description: 
+done:
+  - ""
 ---
-# {{date}}
-## Todo
-- [ ] 
+# {{date:YYYY.MM.DD}}

@@ -9,9 +9,9 @@ CALENDAR date
 FROM #daily
 WHERE typeof(date) = "date"
 ```
+---
 ```dataview
-TABLE
-	description as "task"
+TABLE description, done
 FROM #daily
 WHERE typeof(date) = "date"
 SORT date DESC
