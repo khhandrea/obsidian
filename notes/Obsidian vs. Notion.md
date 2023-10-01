@@ -5,11 +5,8 @@ tags:
 description: obsidian과 notion 차이점과 사용처의 차이 비교
 ---
 # Obsidian vs. Notion
-| Obsidian | Notion                    |
-| -------- | ------------------------- |
-| - 개인   | - 외부로 공유             |
-|          | - 워크스페이스: 동시 작성 |
-|          |                           |
-
 ## Obsidian
+- 개인
 ## Notion
+- 외부로 공유
+- 동시작성 (워크스페이스)
