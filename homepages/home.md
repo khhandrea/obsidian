@@ -6,6 +6,7 @@ tags:
 ## [[homepages/daily|daily]]
 ## [[homepages/note|note]]
 ## [[homepages/paper|paper]]
+## [[homepages/study|study]]
 
 Todo
 - Obsidian
@@ -15,10 +16,16 @@ Todo
 	- Obsidian vs. notion
 	- python settings
 - Python docker 환경 구축
-- 집
-	- 침구 빨래
-	- 화장실 (락스)
+	- C++
+	- Python(jupyter notebook)
 
 매일
 	- 백준
 	- 블로그
+
+- Jupyter notebook
+- Python()
+
+- Local
+	- requirements.txt
+	- main.ipynb
