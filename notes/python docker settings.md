@@ -32,4 +32,4 @@ description: Docker 세팅 생각해보기
 ## References
 - [[docker 기초] 도커 nvidia gpu 초기 세팅 방법 (tistory.com)](https://yeko90.tistory.com/entry/docker-nvidia-gpu-setting)
 - [Docker로 개발환경을 만들어보자 - Seorenn Note](https://seorenn.github.io/note/docker-development-environment.html)
-- 
+- [[Docker] 도커에서 주피터 노트북 원격 접속 방법 (tistory.com)](https://yeko90.tistory.com/entry/how-to-run-jupyter-docker)
