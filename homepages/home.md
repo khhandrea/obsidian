@@ -11,6 +11,8 @@ tags:
 Todo
 - Obsidian
 	- 사용하는 Plugins 용도 정리
+	- Homepage에 작성 규칙 작성
+	- Hompage와 readme 합치는 방안
 - Obsidian note 작성
 	- obsidian markdowns 
 	- Obsidian vs. notion
