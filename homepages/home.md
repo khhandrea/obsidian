@@ -13,6 +13,7 @@ Todo
 	- 사용하는 Plugins 용도 정리
 	- Homepage에 작성 규칙 작성
 	- Hompage와 readme 합치는 방안
+	- .obsidian git에 conflict 없이 업로드하는 방법 알아내기
 - Obsidian note 작성
 	- obsidian markdowns 
 	- Obsidian vs. notion
