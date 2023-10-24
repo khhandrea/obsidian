@@ -32,3 +32,13 @@ Todo
 - Local
 	- requirements.txt
 	- main.ipynb
+### 특징
+
+### 예시
+- STL 사용법
+- 오류 해결 노트
+- ~~ 사용법
+- 독후감
+## 원칙
+- 폴더를 생성하기 보단 태그 달기
+- Obsidian에서 적은 자료들을 바탕으로 Notion에서 체계적인 글 작성
