@@ -4,6 +4,11 @@ tags:
   - homepage
 ---
 # Daily
+```button
+name + New daily
+type command
+action QuickAdd: daily
+```
 ```dataview
 CALENDAR date
 FROM #daily
