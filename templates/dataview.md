@@ -1,6 +1,6 @@
 ---
 created-at: "{{date}}T{{time}}"
 tags:
-  - homepage
+  - dataview
 description: 
 ---
