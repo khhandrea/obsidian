@@ -1,0 +1,36 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "RiInformationLine",
+      "RiPrinterLine",
+      "RiSchoolLine",
+      "RiNewspaperLine",
+      "RiLoader2Line"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconsBackgroundCheckEnabled": false
+  },
+  "daily": "RiCalendarCheckLine",
+  "dataviews": "IbDatabse",
+  "develops": "RiFileCodeLine",
+  "notes": "RiStickyNoteLine",
+  "others": "RiLoader2Line",
+  "papers": "RiNewspaperLine",
+  "schools": "RiSchoolLine",
+  "templates": "RiPrinterLine",
+  "README.md": "RiInformationLine"
+}
