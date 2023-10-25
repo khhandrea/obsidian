@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
   "search": "path:schools  ",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7328864960759377,
+  "scale": 0.662323489209763,
   "close": true
 }
