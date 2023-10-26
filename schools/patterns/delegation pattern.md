@@ -1,7 +1,7 @@
 ---
 created-at: 2023-10-26T02:54
 tags:
-  - design-pattern
+  - pattern
 description:
 ---
 # Delegation Pattern

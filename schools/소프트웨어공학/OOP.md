@@ -18,3 +18,5 @@ description:
 - Encapsulation
 	- 데이터의 보호를 목적으로 데이터들을 감싼다.
 	- E.g. Java의 private data에 접근하기 위한 public methods
+
+- OOAD: [[OOA|OOA(Object-Oriented Analysis)]] + [[OOD|OOD(Object-Oriented Design)]]

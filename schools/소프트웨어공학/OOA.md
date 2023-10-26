@@ -3,7 +3,7 @@ created-at: 2023-10-26T02:25
 tags: 
 description:
 ---
-# Conceptual Model Analysis in OO
+# Object-Oriented Analysis
 ## Conceptual model
 - Problem domain에서의 개념을 표현한 것
 - 개념 혹은 개념의 속성이나 그들 사이의 관계를 포함한다.

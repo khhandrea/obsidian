@@ -35,7 +35,7 @@ description:
 ## 9 disciplnes in UP
 1. Business modeling
 2. [[requirements capture|Requirements capture]]
-3. [[conceptual model anlysis|Analysis]] & [[SA design|design]]
+3. [[OOA|Analysis]] & [[SA design|design]]
 4. Implementation
 5. Test
 6. Deployment

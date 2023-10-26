@@ -3,7 +3,7 @@ created-at: 2023-10-26T03:17
 tags: 
 description:
 ---
-# OO Functional Design
+# Object-Oriented Design
 - System behavior description by system interaction diagram
 
 1. 시스템의 Use-case로부터 system sequence diagram을 만든다.

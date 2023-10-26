@@ -1,7 +1,7 @@
 ---
 created-at: 2023-10-26T02:57
 tags:
-  - design-pattern
+  - pattern
 description:
 ---
 # Interface Pattern
