@@ -3,10 +3,8 @@ created-at: 2023-09-14T12:00:00
 tags: []
 ---
 
-# OSSP2 주차 과제
+# Gym Car Racing 정리
 <center>202111278 컴퓨터공학부 김환희</center>
-
-## Gym Car Racing 정리
 ### References
 - Chris Campbell. (2014). Box2D C++ tutorials - Top-down car physics
   http://www.iforce2d.net/b2dtut/top-down-car
