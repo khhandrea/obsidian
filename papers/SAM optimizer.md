@@ -2,7 +2,7 @@
 created-at: 2023-09-12T12:00
 tags:
   - paper
-description:
+description: Sharpness-Aware Minimization for Efficiently Improving Generalization
 annotation-target: https://arxiv.org/pdf/2010.01412.pdf
 ---
 

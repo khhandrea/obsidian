@@ -5,7 +5,7 @@ tags: []
 
 # Note: SAM optimizer
 References
-- [[papers/SAM-optimizer|SAM-optimizer]]
+- [[SAM optimizer|SAM optimizer]]
 ## Abstract
 ## 1 Introduction
 ## 2 Sharpness-Aware Minimization (SAM)
