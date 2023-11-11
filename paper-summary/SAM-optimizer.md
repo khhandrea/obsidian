@@ -2,7 +2,6 @@
 created-at: 2023-09-12T12:00:00
 tags: []
 ---
-
 # Note: SAM optimizer
 References
 - [[paper-SAM optimizer|paper-SAM optimizer]]
