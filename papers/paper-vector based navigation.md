@@ -62,3 +62,17 @@ annotation-target: sources/vector-based navigation.pdf
 >%%TAGS%%
 >
 ^jc68dgj8n29
+
+
+>%%
+>```annotation-json
+>{"created":"2023-11-12T07:08:48.685Z","updated":"2023-11-12T07:08:48.685Z","document":{"title":"vector-based navigation.pdf","link":[{"href":"urn:x-pdf:1726c38f3340a043aad55dadb02723f6"},{"href":"vault:/sources/vector-based navigation.pdf"}],"documentFingerprint":"1726c38f3340a043aad55dadb02723f6"},"uri":"vault:/sources/vector-based navigation.pdf","target":[{"source":"vault:/sources/vector-based navigation.pdf","selector":[{"type":"TextPositionSelector","start":3828,"end":3993},{"type":"TextQuoteSelector","exact":"The vector of activities in the place and head direction units, corresponding to the current position, was provided as a supervised training signal at each time step","prefix":"mly silenced at each time step. ","suffix":" (see Methods; Extended Data Fig"}]}]}
+>```
+>%%
+>*%%PREFIX%%mly silenced at each time step.%%HIGHLIGHT%% ==The vector of activities in the place and head direction units, corresponding to the current position, was provided as a supervised training signal at each time step== %%POSTFIX%%(see Methods; Extended Data Fig*
+>%%LINK%%[[#^eq7pe1jln7v|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^eq7pe1jln7v

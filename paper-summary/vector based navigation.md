@@ -4,6 +4,14 @@ tags:
 description:
 ---
 # Note: Vector-based Navigation Using Grid-Like Representations in Artificial Agents
+## Abstraction
+- 딥러닝이 복잡한 문제를 풀 정도로 발전했지만, 길 찾기 분제는 동물의 공간지각 능력에 밀린다.
+- Grid cell은 공간의 여러 스케일에서의 지표를 제공해 path integration과 vector-based navigation 능력을 돕는다.
+- 우리는 grid cell의 계산적 기능을 이용하는 DRL agent를 제안하고, 이가 낯설고 변하는 환경에서 목표를 찾는 데에 좋은 효과를 가짐을 보인다.
+
+- place unit과 head direction unit은 매 step마다 supervised training의 형태로 제공한다.
+- Agent는 path integration을 잘 했다.
+
 
 ## Methods
 - $\vec{c}$: true place cell activations
@@ -22,6 +30,19 @@ description:
 - $\vec{e}$: vision embeddings
 
 - Actions: 6 discrete actions: 회전, 앞/뒤/좌/우로 가속, 움직일 때 회전 가속
+
+- Vision module
+	- Input: RGB image
+	- Output: embedded image
+	- Learning: c와 h를 잘 예측하도록 학습
+- Grid network
+	- Input: velocity, direction
+	- Embedded: grid code
+	- Learning: c와 h를 잘 예측하도록 학습
+- Actor learner
+	- Input: current grid code, goal grid code, embedded image, last action, reward
+	- Output: policy, value
+	- Learning: policy loss + value loss + negative entropy loss를 줄이도록 학습
 ## References
 | no  | reference                                                                                                                   | description                                      |
 | --- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
