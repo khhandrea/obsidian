@@ -16,7 +16,13 @@ description: Obsidian markdown 정리
 ##### Heading 5
 ###### Heading 6
 ```
-
+# Heading 1
+## Heading 2
+## Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
+default text
 ## Styled text
 - **Bold**
 	- `**Bold**`
@@ -29,7 +35,7 @@ description: Obsidian markdown 정리
 - ~~Strikethrough~~
 	- `~~Strikethrough~~`
 - ==Highlight==
-	- `"==Highlight==" (without quotes)`
+	- `""==Highlight==" (without quotes)`
 
 ## Quotes
 ```
@@ -39,13 +45,6 @@ description: Obsidian markdown 정리
 > Quote message
 
 ## Callouts 
-```ad-tip
-title: This is a tip
-
-This is the content
-```
-
-
 
 ```
 > [!info] (title)
@@ -124,4 +123,47 @@ It only works in reading view. ^[Inline footnotes. Caret outside the brakets. Lo
 [^1]: Referenced text
 [^2]: Referenced text
 [^note]: Named footnote(but looks number)
+
+## Lists
+```
+- unordered list 1
+* unordered list 2
++ unordered list 3
+```
+
+- unordered list 1
+- unordered list 2
+- unordered list 3
+
+## Horizontal lines
+
+---
+
+## Escaping characters
+- Backdash (\\)
+- Backtick (\`)
+- Asterisk (\*)
+- Underscore (\_)
+- Curly braces (\{ \})
+- Brackets (\[ \])
+- Angle brackets (\< \>)
+- Parentheses \( \)
+- Pound sign (\#)
+- Plus sign (\+)
+- Minus sign (\-)
+- Dot (\.)
+- Exclamation mark (\!)
+- Pipe (\|)
+
+## HTML
+```
+<center>
+<p> We can use some paragraph</br>
+as well as newline,
+with center-aligned
+</center>
+```
+
+<center> <p> We can use some paragraph<br/> as well as newline, with center-aligned </center>
+
 
