@@ -2,7 +2,7 @@
 created-at: 2023-10-04T02:50
 tags:
   - paper
-description: 
+description: Recurrent world model
 annotation-target: https://arxiv.org/pdf/1809.01999.pdf
 ---
 # RNN policy evolution

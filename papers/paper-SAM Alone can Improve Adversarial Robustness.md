@@ -2,7 +2,7 @@
 created-at: 2023-11-08T00:45
 tags:
   - paper
-description: Sharpness-Aware Minimization Alone can Improve Adversarial Robustness
+description: SAM and adversarial robustness
 annotation-target: https://arxiv.org/pdf/2305.05392.pdf
 ---
 # Sharpness-Aware Minimization Alone can Improve Adversarial Robustness

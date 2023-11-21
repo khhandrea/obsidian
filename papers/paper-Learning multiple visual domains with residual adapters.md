@@ -2,7 +2,7 @@
 created-at: 2023-09-18T12:00
 tags:
   - paper
-description: 
+description: Adpaters
 annotation-target: https://arxiv.org/pdf/1705.08045.pdf
 ---
 

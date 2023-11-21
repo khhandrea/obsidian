@@ -4,7 +4,7 @@ tags: []
 ---
 # Note: SAM optimizer
 References
-- [[paper-SAM optimizer|paper-SAM optimizer]]
+- [[paper-SAM for Efficiently Improving Generalization|paper-SAM for Efficiently Improving Generalization]]
 ## Abstract
 ## 1 Introduction
 ## 2 Sharpness-Aware Minimization (SAM)

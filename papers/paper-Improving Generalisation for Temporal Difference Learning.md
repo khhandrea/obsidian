@@ -2,10 +2,10 @@
 created-at: 2023-10-30T00:19
 tags:
   - paper
-description: Introduction to 'successor representations' in RL
+description: The Successor Representation
 annotation-target: http://www.gatsby.ucl.ac.uk/~dayan/papers/d93b.pdf
 ---
-# Successor Representations
+# Improving Generalisation for Temporal Difference Learning: The Successor Representation
 
 >%%
 >```annotation-json

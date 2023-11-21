@@ -2,7 +2,7 @@
 created-at: 2023-09-26T22:58
 tags:
   - paper
-description: 
+description: Domain Generalization by Seeking Flat Minima
 annotation-target: https://proceedings.neurips.cc/paper_files/paper/2021/file/bcb41ccdc4363c6848a1d760f26c28a0-Paper.pdf
 ---
 # SWAD: Domain Generalization by Seeking Flat Minima

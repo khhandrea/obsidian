@@ -2,7 +2,7 @@
 created-at: 2023-11-09T01:12
 tags:
   - paper
-description: Vector-based navigation using grid-like representations in artificial agents
+description: Vector based navigation
 annotation-target: sources/vector-based navigation.pdf
 ---
 # Paper: Vector Based Navigation
