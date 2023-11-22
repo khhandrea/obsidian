@@ -4,6 +4,8 @@ tags:
 description:
 ---
 # Note: Vector-based Navigation Using Grid-Like Representations in Artificial Agents
+References
+- [[paper-Vector-based navigation using grid-like representations in artificial agents|Vector-based navigation using grid-like representations in artificial agents]]
 ## Abstraction
 - 딥러닝이 복잡한 문제를 풀 정도로 발전했지만, 길 찾기 분제는 동물의 공간지각 능력에 밀린다.
 - Grid cell은 공간의 여러 스케일에서의 지표를 제공해 path integration과 vector-based navigation 능력을 돕는다.

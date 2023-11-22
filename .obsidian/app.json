@@ -2,5 +2,6 @@
   "showInlineTitle": false,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "sources",
-  "autoPairMarkdown": false
+  "autoPairMarkdown": false,
+  "spellcheck": false
 }

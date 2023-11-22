@@ -1,4 +1,8 @@
 # Note: Sharpness-Aware Minimization Alone can Improve Adversarial Robustness
+
+References
+- [[paper-SAM Alone can Improve Adversarial Robustness|SAM alone can improve adversarial robustness]]
+
 ## Abstract
 - SAM을 사용하는 것이 clean accuracy를 많이 희생시키지 않고도 robustness를 증가시킨다.
 - 본 연구에서는 SAM의 robustness에 대한 이론적, 실험적 증명을 보이고, SAM과 adversarial training 간의 상관관계를 다룬다.
