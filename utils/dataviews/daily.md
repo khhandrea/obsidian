@@ -4,11 +4,7 @@ tags:
   - dataview
 ---
 # Daily
-```button
-name + New daily
-type command
-action QuickAdd: daily
-```
+
 ```dataview
 CALENDAR date
 FROM #daily
@@ -16,7 +12,7 @@ WHERE typeof(date) = "date"
 ```
 
 ```dataview
-TABLE description, done
+TABLE done
 FROM #daily
 WHERE typeof(date) = "date"
 SORT date DESC

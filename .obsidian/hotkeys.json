@@ -97,5 +97,13 @@
       ],
       "key": "B"
     }
+  ],
+  "daily-notes": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
   ]
 }
