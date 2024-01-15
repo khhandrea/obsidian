@@ -14,7 +14,7 @@ CALENDAR date
 FROM #daily
 WHERE typeof(date) = "date"
 ```
----
+
 ```dataview
 TABLE description, done
 FROM #daily

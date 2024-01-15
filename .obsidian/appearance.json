@@ -1,8 +1,8 @@
 {
-  "accentColor": "#63875e",
+  "accentColor": "#5b8656",
   "theme": "moonstone",
-  "cssTheme": "Typomagical",
+  "cssTheme": "Encore",
   "showViewHeader": true,
   "nativeMenus": true,
-  "translucency": true
+  "translucency": false
 }
