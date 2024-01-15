@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "RiInformationLine",
-      "RiPrinterLine",
-      "RiSchoolLine",
-      "RiNewspaperLine",
-      "RiLoader2Line"
+      "RiPencilRuler2Line",
+      "IbStar",
+      "RiInboxLine",
+      "RiBuildingLine",
+      "RiToolsFill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -24,11 +24,10 @@
     "iconInTitleEnabled": false,
     "iconsBackgroundCheckEnabled": false
   },
-  "daily": "RiCalendarCheckLine",
-  "dataviews": "IbDatabse",
-  "develops": "RiFileCodeLine",
-  "notes": "RiStickyNoteLine",
-  "papers": "RiNewspaperLine",
-  "templates": "RiPrinterLine",
-  "README.md": "RiInformationLine"
+  "README.md": "RiInformationLine",
+  "project": "RiPencilRuler2Line",
+  "area": "RiBuildingLine",
+  "archive": "RiInboxLine",
+  "resource": "IbStar",
+  "utils": "RiToolsFill"
 }

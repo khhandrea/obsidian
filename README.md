@@ -1,16 +1,14 @@
 
 # Obsidian
 ## Directory 소개
-| Directory | Description                           |
-| --------- | ------------------------------------- |
-| daily     | Directory for daily notes             |
-| dataviews | Dataviews for each directories        |
-| develops  | About developing concepts             |
-| notes     | Misc. memo                             |
-| papers    | Archiving papers                      |
-| schools   | Studying on papers, informations etc. |
-| sources   | Sources used from Obsidian            |
-| tempaltes | Markdown templates                    |
+| Directory | Description                    | Examples                            |
+| --------- | ------------------------------ | ----------------------------------- |
+| archive   | 관심에서 멀어진 자료           |                                     |
+| area      | 관심을 유지하는 자료           | daily, development                  |
+| project   | 마감과 기한이 정해져 있는 자료 |                                     |
+| resource  | 관심을 갖고 있는 자료          |                                     |
+| utils     |                                | dataview, paper, sources, tempaltes |
+|           |                                |                                     |
 
 ## 원칙
 - 폴더를 생성하기 보단 태그 달기
