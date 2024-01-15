@@ -3,5 +3,6 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "sources",
   "autoPairMarkdown": false,
-  "spellcheck": false
+  "spellcheck": false,
+  "promptDelete": false
 }
