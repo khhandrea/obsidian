@@ -4,5 +4,7 @@
   "attachmentFolderPath": "sources",
   "autoPairMarkdown": false,
   "spellcheck": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "showLineNumber": true,
+  "vimMode": false
 }
