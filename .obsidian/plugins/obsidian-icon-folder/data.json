@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "IbLightBulb",
       "RiPencilRuler2Line",
       "IbStar",
       "RiInboxLine",
-      "RiBuildingLine"
+      "RiBuildingLine",
+      "RiToolsFill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -24,11 +24,5 @@
     "iconInTitleEnabled": false,
     "iconsBackgroundCheckEnabled": false
   },
-  "README.md": "RiInformationLine",
-  "0-temp": "IbLightBulb",
-  "1-project": "RiPencilRuler2Line",
-  "2-area": "RiBuildingLine",
-  "3-resource": "IbStar",
-  "4-archive": "RiInboxLine",
-  "9-utils": "RiToolsFill"
+  "README.md": "RiInformationLine"
 }
