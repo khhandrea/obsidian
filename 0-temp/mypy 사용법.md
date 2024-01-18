@@ -20,7 +20,13 @@ mypy main.py
 
 3. 결과
 - 정상
-
+```bash
+Success: no issues found in 1 source file
+```
 
 - 비정상
+```bash
+model.py:73: error: Incompatible types in assignment (expression has type "Tensor", variable has type "None")  [assignment]
+agent.py:23: error: Incompatible types in assignment (expression has type "Tensor", variable has type "ndarray[Any, Any]")  [assignment]
+Found 2 errors in 2 files (checked 1 source file)
 ```
