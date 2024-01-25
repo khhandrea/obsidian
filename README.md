@@ -1,9 +1,8 @@
-
 # Obsidian
 ## Directories
 | Directory | Description | Examples |
 | ---- | ---- | ---- |
-| temp | 작성 중인 자료 및 분류가 아직 안 된 자료 |  |
+| draft | 작성 중인 자료 및 분류가 아직 안 된 자료 |  |
 | project | 마감과 기한이 정해져 있는 자료 |  |
 | area | 관심을 유지하는 자료 | daily, development |
 | resource | 관심을 갖고 있는 자료 | writing |

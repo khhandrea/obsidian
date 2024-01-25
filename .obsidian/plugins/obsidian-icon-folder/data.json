@@ -1,16 +1,16 @@
 {
   "settings": {
-    "migrated": 3,
+    "migrated": 4,
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "IbLightBulb",
       "RiPencilRuler2Line",
       "IbStar",
       "RiInboxLine",
-      "RiBuildingLine",
-      "RiToolsFill"
+      "RiBuildingLine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -22,7 +22,15 @@
     },
     "iconInTabsEnabled": false,
     "iconInTitleEnabled": false,
-    "iconsBackgroundCheckEnabled": false
+    "iconsBackgroundCheckEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":"
   },
-  "README.md": "RiInformationLine"
+  "9-utils": "RiToolsFill",
+  "0-drafts": "IbLightBulb",
+  "1-projects": "RiPencilRuler2Line",
+  "2-areas": "RiBuildingLine",
+  "3-resources": "IbStar",
+  "4-archives": "RiInboxLine"
 }

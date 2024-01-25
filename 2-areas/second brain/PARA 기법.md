@@ -11,7 +11,7 @@ description:
 - E.g. 제안서 제출, 영상 업로드, 자격증 공부, 학교 공부
 
 ## Area
-- 일생동안 지속적으로 유지해야 하는 활동
+- Area of responsibility. 일생동안 지속적으로 유지해야 하는 활동
 - E.g. 공부, 재산, 운동, 취미
 
 ## Resource

@@ -6,5 +6,12 @@
   "spellcheck": false,
   "promptDelete": false,
   "showLineNumber": true,
-  "vimMode": false
+  "vimMode": false,
+  "foldHeading": false,
+  "foldIndent": false,
+  "showIndentGuide": false,
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "0-temp"
 }
